@@ -1,0 +1,11 @@
+.Aciklama {
+    display: flex;
+    background-color: rgba(131, 123, 136, 0.192);
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-bottom: 1rem; */
+}
